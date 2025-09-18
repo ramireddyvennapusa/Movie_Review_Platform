@@ -1,0 +1,5 @@
+{
+  "name": "Movie Review Platform",
+  "description": "A responsive web application for browsing movies, reading and writing reviews, and managing a personal watchlist. It features pages for home, movie listings with search and filters, detailed movie views, and user profiles.",
+  "requestFramePermissions": []
+}
